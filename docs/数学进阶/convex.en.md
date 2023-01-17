@@ -17,8 +17,8 @@ In practice, you will deeply understand that for the same problem, a small chang
 - Course Website: <http://stanford.edu/class/ee364a/index.html>
 - Recordings: <https://www.youtube.com/watch?v=VNON98dKjno&list=PLoCMsyE1cvdXeoqd1hGaMBsCAQQ6otUtO>
 - Textbook: [Convex Optimization](https://stanford.edu/~boyd/cvxbook/)
-- Assignments: refer to the course website
+- Assignments: refer to the course website.
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPic/Standford_CVX101 - GitHub](https://github.com/PKUFlyingPig/Standford_CVX101)
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPic/Standford_CVX101 - GitHub](https://github.com/PKUFlyingPig/Standford_CVX101).
