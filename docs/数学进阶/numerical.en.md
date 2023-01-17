@@ -18,8 +18,8 @@ The designers of this course have also written an open source textbook for this 
 
 - Course Website: <https://github.com/mitmath/18330>
 - Textbook: <https://fncbook.github.io/fnc/frontmatter.html>
-- Assignments: 10 problem sets
+- Assignments: 10 problem sets.
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPic/MIT18.330 - GitHub](https://github.com/PKUFlyingPig/MIT18.330)
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPic/MIT18.330 - GitHub](https://github.com/PKUFlyingPig/MIT18.330).
